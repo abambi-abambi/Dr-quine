@@ -6,7 +6,14 @@ the **subject.pdf** for more information about the project.
 
 ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~
 
-> There are 3 folders corresponding to: **C**, **ASM** and **Java** language, respectively.
+## There are 3 folders
+corresponding to: **C**, **ASM** and **Java** language, respectively.
+
+## Project works with: 
+
+- **ASM**: Linux (Ubuntu) 64-bits (x86_64). Compiler: nasm + clang. Flags: -f elf64 (nasm), -Wextra -Wall -Werror -m64 -no-pie -lc (clang)
+- **C**: Linux (Ubuntu) 64-bits (x86_64). Compiler: clang. Flags: -Wextra -Wall -Werror
+- **Java**: Linux (Ubuntu) 64-bits (x86_64). Compiler: javac. + use of C pre processor (cpp -P) for macros support in one case.
 
 ## Building the project(s):
 go to each folder (**C**, **ASM** and **JAVA**) in a terminal and print:
