@@ -42,27 +42,27 @@ Each folder will include 3 programs:
 
 ## Launching the project:
 
-C:
+**C**:
 
 - ./Colleen
 - ./Grace
 - ./Sully
 
-> Colleen and it's output doesn't have difference.
-
-ASM:
+**ASM**:
 
 - ./Colleen
 - ./Grace
 - ./Sully
 
-> Grace and it's output doesn't have difference.
-
-Java:
+**Java**:
 
 - java Colleen
 - java Grace
 - java Sully
+
+> Colleen and it's output doesn't have difference.
+
+> Grace and it's output doesn't have difference.
 
 > Sully's content with it's 'kids' has only difference in the initial integer (5) (for new file_name creations).
 
