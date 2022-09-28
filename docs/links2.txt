@@ -1,0 +1,10 @@
+https://github.com/anyaschukin/Dr_Quine/blob/master/ASM/Sully.s
+very good
+
+stackoverflow.com/questions/56766404/declaring-a-pointer-in-nasm
+
+https://docs.yandex.ru/docs/view?tm=1663703774&tld=ru&lang=en&name=asm.pdf&text=assembler%20what%20is%20callee%20saved%20register&url=https%3A%2F%2Fmarkfloryan.github.io%2Fpdr%2Fslides%2Freiss%2Fasm.pdf&lr=213&mime=pdf&l10n=ru&sign=2456ca22b5e9d90676d61abd74f0b8e2&keyno=0&nosw=1&serpParams=tm%3D1663703774%26tld%3Dru%26lang%3Den%26name%3Dasm.pdf%26text%3Dassembler%2Bwhat%2Bis%2Bcallee%2Bsaved%2Bregister%26url%3Dhttps%253A%2F%2Fmarkfloryan.github.io%2Fpdr%2Fslides%2Freiss%2Fasm.pdf%26lr%3D213%26mime%3Dpdf%26l10n%3Dru%26sign%3D2456ca22b5e9d90676d61abd74f0b8e2%26keyno%3D0%26nosw%3D1
+
+https://github.com/pankratdodo/dr_quine-42/blob/master/ASM/Sully.s
+https://github.com/smurfy92/42-dr-quine/blob/master/ASM/Sully/Sully.s
+https://github.com/cclaude42/dr-quine/blob/master/ASM/Sully/Sully.s
