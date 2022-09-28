@@ -1,4 +1,4 @@
-# Dr-quine
+# Dr-quine - create 3 kinds of quine programms
 
 ## Read:
 
@@ -64,10 +64,10 @@ Each folder will include 3 programs:
 
 > Grace and it's output doesn't have difference.
 
-> Sully's content with it's 'kids' has only difference in the initial integer (5) (for new file_name creations).
+> Sully's inner content with it's 'kids' has only difference in the initial integer (5,4,3,2,1,0) (which helps to create a new file with a new name with (almost) the same content).
 
 ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~
 
 ## For test cases and rules see:
-comments inside **Makefile** (in each folder) and the **ckecklist.pdf**
+comments inside the **Makefile** (in each folder) and the **checklist.pdf**
 
